@@ -52,7 +52,7 @@ I'm a Computer Science undergrad specializing in AI & ML at JECRC University, Ja
 <tr>
 <td width="50%" valign="top">
 
-### 🛡️ FraudShield AI
+### 🛡️ Pramaan AI
 *Team project — IIC 3.0 Hackathon*
 > ML-based fraud detector flagging SMS scams, phishing emails, and fake job offer letters. Built with Team OSIR Code.
 
